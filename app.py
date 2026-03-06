@@ -38,7 +38,7 @@ st.set_page_config(
         "About": (
             "**The Alignment Tax** — A structured analytical framework estimating "
             "the economic costs and benefits of great-power alignment choices for "
-            "African states. All data is synthetic and calibrated to real-world "
+            "African states. All data is calibrated to real-world "
             "patterns. NOT deterministic predictions."
         )
     },
