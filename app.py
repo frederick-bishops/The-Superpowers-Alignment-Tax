@@ -446,7 +446,7 @@ with st.sidebar:
         """
         <div style="padding: 0.5rem 0 1rem 0;">
             <div style="font-size: 1.35rem; font-weight: 700; letter-spacing: -0.02em;">
-                ⚖️ The Alignment Tax
+                 The Superpowers Alignment Tax
             </div>
             <div style="font-size: 0.78rem; color: #BCE2E7; margin-top: 0.2rem; line-height: 1.4;">
                 Quantifying the economic cost of<br>
