@@ -811,11 +811,11 @@ def page_signal_coding():
 
     # ── Tab 2: Iran Crisis Signals ─────────────────────────────────────────────
     with tab_signals:
-        st.subheader("2025 Iran Crisis — Diplomatic Signal Coding (15 Focus Countries)")
+        st.subheader("2026 Iran Crisis — Diplomatic Signal Coding (15 Focus Countries)")
         st.markdown(
             '<div class="info-card">'
             "Diplomatic signals are coded across five dimensions for the hypothetical "
-            "2025 Iran–US/Israel escalation scenario: UN vote signal (−1 to +1 for US), "
+            "2026 Iran–US/Israel escalation scenario: UN vote signal (−1 to +1 for US), "
             "diplomatic statement tone, sanctions compliance (0–1), military exercise "
             "participation (none/observer/participant), and commodity routing signal. "
             "A weighted composite score is derived."
