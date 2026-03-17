@@ -1174,7 +1174,7 @@ def page_calculator():
                 "Crisis type",
                 options=["iran", "taiwan", "ukraine", "generic"],
                 format_func=lambda x: {
-                    "iran": "🇮🇷 Iran (2025 escalation)",
+                    "iran": "🇮🇷 Iran (2026 escalation)",
                     "taiwan": "🇹🇼 Taiwan (strait crisis)",
                     "ukraine": "🇺🇦 Ukraine (continued conflict)",
                     "generic": "⚡ Generic great-power crisis",
